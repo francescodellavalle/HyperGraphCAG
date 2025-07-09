@@ -1,6 +1,6 @@
 # HyperGraphCAG
 
-**HyperGraphCAG** (Hypergraph-based Retrieval Augmented Generation with Semantic Cache) is an advanced RAG framework that combines **structured knowledge representation using hypergraphs** with **efficient response generation via semantic caching**.
+HyperGraphCAG (Hypergraph-based Retrieval Augmented Generation with Semantic Cache) is an advanced RAG framework that combines **structured knowledge representation using hypergraphs** with **efficient response generation via semantic caching**.
 
 <img width="700" alt="Image" src="https://github.com/user-attachments/assets/8282b215-f3cd-4bac-86e2-0fcb21e43b66" />
 
