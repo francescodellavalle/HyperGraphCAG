@@ -8,6 +8,8 @@
 - Leveraging a **hypergraph-guided retrieval** mechanism for more accurate context selection
 - Employing **Cache-Augmented Generation (CAG)** to allow fast and **retrieval-free inference**
 
+![System Architecture](HGCag.drawio.png)
+
 ## ⚙️ System Architecture
 
 The system is composed of three main phases:
