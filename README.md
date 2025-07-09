@@ -6,8 +6,6 @@
 
 ## ⚙️ System Architecture
 
-The system is composed of three main phases:
-
 ### 1. Knowledge Construction  
 Domain-specific documents are segmented into text chunks. A language model extracts entities and relations to build a **knowledge hypergraph**, where each hyperedge connects two or more entities through a descriptive relation.
 
